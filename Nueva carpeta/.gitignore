@@ -1,0 +1,4 @@
+#Forma de avitar que se compartan en el repositorio archivos que no se desean compartir
+#En este caso archivos de texto .txt
+
+*.txt
