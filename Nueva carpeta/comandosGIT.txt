@@ -1,9 +1,0 @@
-git config --global --list (veo name y/o mail ingresado)
- 	user.name
-	user.email
-git config --global --unset (comando para borrar datos ingresados (en seste caso mail  o nombre)
-	
-git config --global --unset user.name (borraria el nombre ingresado)
-
-git config --global --list (veo name y/o mail ingresado)
-	user.mail  (en este caso borre nombre, me queda solo user.email)
